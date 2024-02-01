@@ -1,0 +1,17 @@
+D:\InoviMobileApp\InoviServices\bin\Release\net6.0\InoviServices.deps.json
+D:\InoviMobileApp\InoviServices\bin\Release\net6.0\InoviServices.dll
+D:\InoviMobileApp\InoviServices\bin\Release\net6.0\InoviServices.pdb
+D:\InoviMobileApp\InoviServices\bin\Release\net6.0\InoviDataAccessLayer.dll
+D:\InoviMobileApp\InoviServices\bin\Release\net6.0\InoviDataTransferObject.dll
+D:\InoviMobileApp\InoviServices\bin\Release\net6.0\InoviDataAccessLayer.pdb
+D:\InoviMobileApp\InoviServices\bin\Release\net6.0\InoviDataTransferObject.pdb
+D:\InoviMobileApp\InoviServices\obj\Release\net6.0\InoviServices.csproj.AssemblyReference.cache
+D:\InoviMobileApp\InoviServices\obj\Release\net6.0\InoviServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\InoviMobileApp\InoviServices\obj\Release\net6.0\InoviServices.AssemblyInfoInputs.cache
+D:\InoviMobileApp\InoviServices\obj\Release\net6.0\InoviServices.AssemblyInfo.cs
+D:\InoviMobileApp\InoviServices\obj\Release\net6.0\InoviServices.csproj.CoreCompileInputs.cache
+D:\InoviMobileApp\InoviServices\obj\Release\net6.0\InoviServices.csproj.CopyComplete
+D:\InoviMobileApp\InoviServices\obj\Release\net6.0\InoviServices.dll
+D:\InoviMobileApp\InoviServices\obj\Release\net6.0\refint\InoviServices.dll
+D:\InoviMobileApp\InoviServices\obj\Release\net6.0\InoviServices.pdb
+D:\InoviMobileApp\InoviServices\obj\Release\net6.0\ref\InoviServices.dll

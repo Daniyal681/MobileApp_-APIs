@@ -1,0 +1,12 @@
+D:\InoviMobileApp\DTO\bin\Release\net6.0\InoviDataTransferObject.deps.json
+D:\InoviMobileApp\DTO\bin\Release\net6.0\InoviDataTransferObject.dll
+D:\InoviMobileApp\DTO\bin\Release\net6.0\InoviDataTransferObject.pdb
+D:\InoviMobileApp\DTO\obj\Release\net6.0\InoviDataTransferObject.csproj.AssemblyReference.cache
+D:\InoviMobileApp\DTO\obj\Release\net6.0\InoviDataTransferObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\InoviMobileApp\DTO\obj\Release\net6.0\InoviDataTransferObject.AssemblyInfoInputs.cache
+D:\InoviMobileApp\DTO\obj\Release\net6.0\InoviDataTransferObject.AssemblyInfo.cs
+D:\InoviMobileApp\DTO\obj\Release\net6.0\InoviDataTransferObject.csproj.CoreCompileInputs.cache
+D:\InoviMobileApp\DTO\obj\Release\net6.0\InoviDataTransferObject.dll
+D:\InoviMobileApp\DTO\obj\Release\net6.0\refint\InoviDataTransferObject.dll
+D:\InoviMobileApp\DTO\obj\Release\net6.0\InoviDataTransferObject.pdb
+D:\InoviMobileApp\DTO\obj\Release\net6.0\ref\InoviDataTransferObject.dll

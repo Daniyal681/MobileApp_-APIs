@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sxOD4GVCuZtC9kYEb0xrgIatN6qDRwqc7hePAhJDFbQ=",
+  "Source": "InoviWebApi",
+  "BasePath": "_content/InoviWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
